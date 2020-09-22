@@ -1,0 +1,7 @@
+food and items list
+book
+juice
+shoes
+shirt
+belts
+food
