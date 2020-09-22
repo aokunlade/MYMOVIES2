@@ -5,3 +5,5 @@ shoes
 shirt
 belts
 food
+house
+clock
